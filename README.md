@@ -53,9 +53,9 @@
  </div>
 </div>
 
-<h2 align="center">📊 My Github Stats</h2>
+<h2 align="center">📊 My Github Stats</h2><br/>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manideep-0164&show_icons=true&locale=en" alt="manideep-0164" /></p>
-
-<p align="center"> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=manideep-0164&" alt="manideep-0164" /></p>
+<br/>
+<p align="center"> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=manideep-0164&" alt="manideep-0164" /></p><br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manideep-0164&show_icons=true&locale=en&layout=compact" alt="manideep-0164" /></p>
