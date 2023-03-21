@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Manideep</h1>
 <h3 align="center">A Passionate Backend Developer</h3>&nbsp;&nbsp;
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" alt="coding" width="370" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM3YzlkYTVkMDJiNTYwZjA3ZTUzMTk5ZDg0OGRlYTFmNGYzN2Y4MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manideep-0164&label=Profile%20views&color=0e75b6&style=flat" alt="manideep-0164" /> </p>
 
