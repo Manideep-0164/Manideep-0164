@@ -13,7 +13,7 @@
 - 💻 All of my projects are available at [Portfolio](https://Manideep-0164.github.io/)
 
 - 📫 How to reach me peddaboinimanideep03@gmail.com
-- 
+  
 </div>
 
 <h3 align="left">Connect with me:</h3>
