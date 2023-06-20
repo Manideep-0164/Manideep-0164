@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="330" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM3YzlkYTVkMDJiNTYwZjA3ZTUzMTk5ZDg0OGRlYTFmNGYzN2Y4MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manideep-0164&label=Profile%20views&color=0e75b6&style=flat" alt="manideep-0164" /> </p>
-
+<div>
 - 🌱 I’m currently learning Backend Development
 
 - 💬 Ask me about HTML, CSS, Node, Express and MongoDB
@@ -12,7 +12,7 @@
 - 💻 All of my projects are available at <a href="https://manideep-0164.github.io">Portfolio</a>
 
 - 📫 How to reach me peddaboinimanideep03@gmail.com
-
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <!-- <p align="left">
