@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **HTML, CSS, Node, Express and MongoDB**
 
-- 📫 How to reach me **peddaboinimanideep03@gmail.com**
-
 - 💻 All of my projects are available at [Portfolio](https://manideep-0164.github.io)
+
+- 📫 How to reach me **peddaboinimanideep03@gmail.com**
 
 - 📄 Know about me [Resume](https://drive.google.com/file/d/1vpGGLo8FT5XRJIjMDq2-eCIEdXV4jmAB/view?usp=share_link)
 
