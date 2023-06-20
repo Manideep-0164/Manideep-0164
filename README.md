@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Node, Express and MongoDB**
+- 💬 Ask me about **HTML, CSS, Node, Express and MongoDB**
 
 - 📫 How to reach me **peddaboinimanideep03@gmail.com**
 
