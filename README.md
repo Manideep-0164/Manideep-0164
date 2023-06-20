@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, Node, Express and MongoDB**
 
-- 💻 All of my projects are available at https://manideep-0164.github.io
+- 💻 All of my projects are available at Portfolio(https://manideep-0164.github.io)
 
 - 📫 How to reach me **peddaboinimanideep03@gmail.com**
 
