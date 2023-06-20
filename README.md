@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manideep-0164&label=Profile%20views&color=0e75b6&style=flat" alt="manideep-0164" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning Backend Development
 
-- 💬 Ask me about **HTML, CSS, Node, Express and MongoDB**
+- 💬 Ask me about HTML, CSS, Node, Express and MongoDB
 
 - 💻 All of my projects are available at <a href="https://manideep-0164.github.io">Portfolio</a>
 
-- 📫 How to reach me **peddaboinimanideep03@gmail.com**
+- 📫 How to reach me peddaboinimanideep03@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
